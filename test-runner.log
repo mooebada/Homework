@@ -1,0 +1,537 @@
+2023-01-03 01:08:43 info: ----------------------------------------------
+2023-01-03 01:08:43 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2023-01-03 01:08:43 info: ----------------------------------------------
+2023-01-03 01:08:49 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are amazing, HackYourFuture!
+  Received: You are amazing, HackYourFuture!"
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/hackyourfuture/Desktop/mooebada/homeWorke/Homework/test-runner/CustomReporter.js"
+2023-01-03 01:10:34 info: Disclaimer turned off
+2023-01-03 01:11:11 info: ----------------------------------------------
+2023-01-03 01:11:11 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2023-01-03 01:11:11 info: ----------------------------------------------
+2023-01-03 01:11:17 info: All unit tests passed.
+2023-01-03 01:11:23 info: All steps were completed successfully
+2023-01-03 01:29:14 info: ----------------------------------------
+2023-01-03 01:29:14 info: >>> Running Unit Test `ex2-dogYears` <<<
+2023-01-03 01:29:14 info: ----------------------------------------
+2023-01-03 01:29:20 info: All unit tests passed.
+2023-01-03 01:29:26 info: All steps were completed successfully
+2023-01-03 02:00:17 info: -------------------------------------------
+2023-01-03 02:00:17 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2023-01-03 02:00:17 info: -------------------------------------------
+2023-01-03 02:00:22 error: *** Unit Test Error Report ***
+
+✕ tellFortune should tell the fortune by randomly selecting array values
+  Expected: You will be a Accountant in Cairo, married to Mohamed with 1 kids.
+  Received: You will be a Accountant in Cairo, 
+  married to Mohamed with 1 kids.
+
+
+Command failed: npx jest ex3-tellFortune.test.js --colors --reporters="/Users/hackyourfuture/Desktop/mooebada/homeWorke/Homework/test-runner/CustomReporter.js"
+2023-01-03 02:00:30 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:53:46 - Unknown word (Mohaned)
+ex3-tellFortune.js:53:57 - Unknown word (Maryam)
+ex3-tellFortune.js:53:67 - Unknown word (Roqiaa)
+
+2023-01-03 02:01:57 info: -------------------------------------------
+2023-01-03 02:01:57 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2023-01-03 02:01:57 info: -------------------------------------------
+2023-01-03 02:02:03 info: All unit tests passed.
+2023-01-03 02:02:09 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:52:46 - Unknown word (Mohaned)
+ex3-tellFortune.js:52:57 - Unknown word (Maryam)
+ex3-tellFortune.js:52:67 - Unknown word (Roqiaa)
+
+2023-01-03 02:04:52 info: -------------------------------------------
+2023-01-03 02:04:52 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2023-01-03 02:04:52 info: -------------------------------------------
+2023-01-03 02:04:57 info: All unit tests passed.
+2023-01-03 02:05:03 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:52:46 - Unknown word (Magdy)
+ex3-tellFortune.js:52:55 - Unknown word (Maryam)
+ex3-tellFortune.js:52:65 - Unknown word (Roqiaa)
+
+2023-01-03 04:22:58 info: -------------------------------------------
+2023-01-03 04:22:58 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2023-01-03 04:22:58 info: -------------------------------------------
+2023-01-03 04:23:04 info: All unit tests passed.
+2023-01-03 04:23:10 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:52:46 - Unknown word (Mhaned)
+ex3-tellFortune.js:52:56 - Unknown word (Maryam)
+ex3-tellFortune.js:52:66 - Unknown word (Roqiaa)
+
+2023-01-03 05:00:21 info: --------------------------------------------
+2023-01-03 05:00:21 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2023-01-03 05:00:21 info: --------------------------------------------
+2023-01-03 05:00:21 warn: A unit test file was not provided.
+2023-01-03 05:00:28 info: All steps were completed successfully
+2023-01-04 08:09:52 info: --------------------------------------------
+2023-01-04 08:09:52 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2023-01-04 08:09:52 info: --------------------------------------------
+2023-01-04 08:09:52 warn: A unit test file was not provided.
+2023-01-04 08:10:00 info: All steps were completed successfully
+2023-01-04 08:47:50 info: --------------------------------------------
+2023-01-04 08:47:50 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2023-01-04 08:47:50 info: --------------------------------------------
+2023-01-04 08:47:50 warn: A unit test file was not provided.
+2023-01-04 08:47:56 info: All steps were completed successfully
+2023-01-05 12:34:30 info: --------------------------------------------
+2023-01-05 12:34:30 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2023-01-05 12:34:30 info: --------------------------------------------
+2023-01-05 12:34:30 warn: A unit test file was not provided.
+2023-01-05 12:34:38 info: All steps were completed successfully
+2023-01-05 01:47:05 info: --------------------------------------------
+2023-01-05 01:47:05 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2023-01-05 01:47:05 info: --------------------------------------------
+2023-01-05 01:47:05 warn: A unit test file was not provided.
+2023-01-05 01:47:13 info: All steps were completed successfully
+2023-01-05 04:09:27 info: ------------------------------------------------
+2023-01-05 04:09:27 info: >>> Running Unit Test `ex5-shoppingCartPure` <<<
+2023-01-05 04:09:27 info: ------------------------------------------------
+2023-01-05 04:09:27 warn: A unit test file was not provided.
+2023-01-05 04:09:35 info: All steps were completed successfully
+2023-01-05 04:54:56 info: -----------------------------------------
+2023-01-05 04:54:56 info: >>> Running Unit Test `ex6-totalCost` <<<
+2023-01-05 04:54:56 info: -----------------------------------------
+2023-01-05 04:54:56 warn: A unit test file was not provided.
+2023-01-05 04:55:04 info: All steps were completed successfully
+2023-01-05 07:37:04 info: -------------------------------------------
+2023-01-05 07:37:04 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2023-01-05 07:37:04 info: -------------------------------------------
+2023-01-05 07:37:04 warn: A unit test file was not provided.
+2023-01-05 07:37:11 info: All steps were completed successfully
+2023-01-05 07:56:21 info: ------------------------------------------------------
+2023-01-05 07:56:21 info: >>> Running Unit Test `ex1-doubleEvenNumbers.test` <<<
+2023-01-05 07:56:21 info: ------------------------------------------------------
+2023-01-05 07:56:26 info: All unit tests passed.
+2023-01-05 07:56:32 info: All steps were completed successfully
+2023-01-05 08:11:15 info: -------------------------------------------------
+2023-01-05 08:11:15 info: >>> Running Unit Test `ex2-mondaysWorth.test` <<<
+2023-01-05 08:11:15 info: -------------------------------------------------
+2023-01-05 08:11:20 error: *** Unit Test Error Report ***
+
+console.log
+    €187.5
+
+      at Object.log (1-JavaScript/Week4/homework/ex2-mondaysWorth.test.js:42:9)
+
+
+
+Command failed: npx jest ex2-mondaysWorth.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex2-mondaysWorth.test.js
+  computeEarnings
+    ✓ should take two parameters (4 ms)
+    ✕ should compute the earnings as a formatted Euro amount (5 ms)
+
+  ● computeEarnings › should compute the earnings as a formatted Euro amount
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "€187.50"
+    Received: "€187.5"
+
+      53 |     const result = computeEarnings(mondayTasks, hourlyRate);
+      54 |     const expected = '€187.50';
+    > 55 |     expect(result).toBe(expected);
+         |                    ^
+      56 |   });
+      57 | });
+      58 |
+
+      at Object.toBe (1-JavaScript/Week4/homework/ex2-mondaysWorth.test.js:55:20)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.079 s
+Ran all test suites matching /ex2-mondaysWorth.test.js/i.
+2023-01-05 08:18:03 info: -------------------------------------------------
+2023-01-05 08:18:03 info: >>> Running Unit Test `ex2-mondaysWorth.test` <<<
+2023-01-05 08:18:03 info: -------------------------------------------------
+2023-01-05 08:18:08 info: All unit tests passed.
+2023-01-05 08:18:16 info: All steps were completed successfully
+2023-01-05 09:28:46 info: -------------------------------------------------
+2023-01-05 09:28:46 info: >>> Running Unit Test `ex3-lemonAllergy.test` <<<
+2023-01-05 09:28:46 info: -------------------------------------------------
+2023-01-05 09:28:51 error: *** Unit Test Error Report ***
+
+console.log
+    [ 'apple', 'grapefruit', 'banana', 'watermelon' ]
+
+      at Object.log (1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js:36:9)
+
+
+
+Command failed: npx jest ex3-lemonAllergy.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js
+  sanitizeFruitBasket
+    ✕ should take two parameters (6 ms)
+    ✓ should not modify the original `fruitBasket` array
+    ✓ should return a new array that does not include the unwanted `lemon`
+
+  ● sanitizeFruitBasket › should take two parameters
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      40 |   test('should take two parameters', () => {
+      41 |     expect(sanitizeFruitBasket).toHaveLength(2);
+    > 42 |     expect(false).toBe(true);
+         |                   ^
+      43 |   });
+      44 |
+      45 |   test('should not modify the original `fruitBasket` array', () => {
+
+      at Object.toBe (1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js:42:19)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.055 s
+Ran all test suites matching /ex3-lemonAllergy.test.js/i.
+2023-01-05 09:30:09 info: -------------------------------------------------
+2023-01-05 09:30:09 info: >>> Running Unit Test `ex3-lemonAllergy.test` <<<
+2023-01-05 09:30:09 info: -------------------------------------------------
+2023-01-05 09:30:14 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex3-lemonAllergy.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js
+  sanitizeFruitBasket
+    ✕ should take two parameters (6 ms)
+    ✓ should not modify the original `fruitBasket` array (1 ms)
+    ✓ should return a new array that does not include the unwanted `lemon` (1 ms)
+
+  ● sanitizeFruitBasket › should take two parameters
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      38 |   test('should take two parameters', () => {
+      39 |     expect(sanitizeFruitBasket).toHaveLength(2);
+    > 40 |     expect(false).toBe(true);
+         |                   ^
+      41 |   });
+      42 |
+      43 |   test('should not modify the original `fruitBasket` array', () => {
+
+      at Object.toBe (1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js:40:19)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.074 s
+Ran all test suites matching /ex3-lemonAllergy.test.js/i.
+2023-01-05 09:34:46 info: -------------------------------------------------
+2023-01-05 09:34:46 info: >>> Running Unit Test `ex3-lemonAllergy.test` <<<
+2023-01-05 09:34:46 info: -------------------------------------------------
+2023-01-05 09:34:51 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex3-lemonAllergy.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js
+  sanitizeFruitBasket
+    ✕ should take two parameters (9 ms)
+    ✓ should not modify the original `fruitBasket` array (1 ms)
+    ✓ should return a new array that does not include the unwanted `lemon` (1 ms)
+
+  ● sanitizeFruitBasket › should take two parameters
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      38 |   test('should take two parameters', () => {
+      39 |     expect(sanitizeFruitBasket).toHaveLength(2);
+    > 40 |     expect(false).toBe(true);
+         |                   ^
+      41 |   });
+      42 |
+      43 |   test('should not modify the original `fruitBasket` array', () => {
+
+      at Object.toBe (1-JavaScript/Week4/homework/ex3-lemonAllergy.test.js:40:19)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.05 s
+Ran all test suites matching /ex3-lemonAllergy.test.js/i.
+2023-01-05 09:37:09 info: -------------------------------------------------
+2023-01-05 09:37:09 info: >>> Running Unit Test `ex3-lemonAllergy.test` <<<
+2023-01-05 09:37:09 info: -------------------------------------------------
+2023-01-05 09:37:14 info: All unit tests passed.
+2023-01-05 09:37:17 error: *** ESLint Report ***
+
+ex3-lemonAllergy.test.js
+  40:5  warning  Remove commented-out code  hyf/no-commented-out-code
+
+✖ 1 problem (0 errors, 1 warning)
+
+
+2023-01-05 09:38:45 info: -------------------------------------------------
+2023-01-05 09:38:45 info: >>> Running Unit Test `ex3-lemonAllergy.test` <<<
+2023-01-05 09:38:45 info: -------------------------------------------------
+2023-01-05 09:38:50 info: All unit tests passed.
+2023-01-05 09:38:57 info: All steps were completed successfully
+2023-01-05 10:05:51 info: ------------------------------------------
+2023-01-05 10:05:51 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:05:51 info: ------------------------------------------
+2023-01-05 10:05:56 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex4-observable.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js
+  createObservable
+    ✓ should exist and be a function (3 ms)
+    ✓ should return an object with `subscribe` and a `notify` function properties
+    ✕ should notify all subscribers of any notification (3 ms)
+
+  ● createObservable › should notify all subscribers of any notification
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Hi!"
+
+    Number of calls: 0
+
+      28 |
+      29 |     // Assert that both listeners have been called with the Hi! message
+    > 30 |     expect(listener1).toHaveBeenCalledWith('Hi!');
+         |                       ^
+      31 |     expect(listener2).toHaveBeenCalledWith('Hi!');
+      32 |   });
+      33 | });
+
+      at Object.toHaveBeenCalledWith (1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js:30:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.041 s
+Ran all test suites matching /ex4-observable.test.js/i.
+2023-01-05 10:07:53 info: ------------------------------------------
+2023-01-05 10:07:53 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:07:53 info: ------------------------------------------
+2023-01-05 10:07:58 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex4-observable.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js
+  createObservable
+    ✓ should exist and be a function (2 ms)
+    ✓ should return an object with `subscribe` and a `notify` function properties (1 ms)
+    ✕ should notify all subscribers of any notification (4 ms)
+
+  ● createObservable › should notify all subscribers of any notification
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Hi!"
+
+    Number of calls: 0
+
+      28 |
+      29 |     // Assert that both listeners have been called with the Hi! message
+    > 30 |     expect(listener1).toHaveBeenCalledWith('Hi!');
+         |                       ^
+      31 |     expect(listener2).toHaveBeenCalledWith('Hi!');
+      32 |   });
+      33 | });
+
+      at Object.toHaveBeenCalledWith (1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js:30:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.062 s
+Ran all test suites matching /ex4-observable.test.js/i.
+2023-01-05 10:08:43 info: ------------------------------------------
+2023-01-05 10:08:43 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:08:43 info: ------------------------------------------
+2023-01-05 10:08:48 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex4-observable.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js
+  createObservable
+    ✓ should exist and be a function (3 ms)
+    ✓ should return an object with `subscribe` and a `notify` function properties (1 ms)
+    ✕ should notify all subscribers of any notification (4 ms)
+
+  ● createObservable › should notify all subscribers of any notification
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Hi!"
+
+    Number of calls: 0
+
+      28 |
+      29 |     // Assert that both listeners have been called with the Hi! message
+    > 30 |     expect(listener1).toHaveBeenCalledWith('Hi!');
+         |                       ^
+      31 |     expect(listener2).toHaveBeenCalledWith('Hi!');
+      32 |   });
+      33 | });
+
+      at Object.toHaveBeenCalledWith (1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js:30:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.036 s
+Ran all test suites matching /ex4-observable.test.js/i.
+2023-01-05 10:11:36 info: ------------------------------------------
+2023-01-05 10:11:36 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:11:36 info: ------------------------------------------
+2023-01-05 10:11:41 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex4-observable.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js
+  createObservable
+    ✓ should exist and be a function (3 ms)
+    ✓ should return an object with `subscribe` and a `notify` function properties
+    ✕ should notify all subscribers of any notification (3 ms)
+
+  ● createObservable › should notify all subscribers of any notification
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Hi!"
+
+    Number of calls: 0
+
+      28 |
+      29 |     // Assert that both listeners have been called with the Hi! message
+    > 30 |     expect(listener1).toHaveBeenCalledWith('Hi!');
+         |                       ^
+      31 |     expect(listener2).toHaveBeenCalledWith('Hi!');
+      32 |   });
+      33 | });
+
+      at Object.toHaveBeenCalledWith (1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js:30:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        1.041 s
+Ran all test suites matching /ex4-observable.test.js/i.
+2023-01-05 10:12:35 info: ------------------------------------------
+2023-01-05 10:12:35 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:12:35 info: ------------------------------------------
+2023-01-05 10:12:39 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex4-observable.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js
+  createObservable
+    ✓ should exist and be a function (2 ms)
+    ✓ should return an object with `subscribe` and a `notify` function properties (1 ms)
+    ✕ should notify all subscribers of any notification (5 ms)
+
+  ● createObservable › should notify all subscribers of any notification
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Hi!"
+
+    Number of calls: 0
+
+      29 |     // Assert that both listeners have been called with the Hi! message
+      30 |     expect(listener1).toHaveBeenCalledWith('Hi!');
+    > 31 |     expect(listener2).toHaveBeenCalledWith('Hi!');
+         |                       ^
+      32 |   });
+      33 | });
+      34 |
+
+      at Object.toHaveBeenCalledWith (1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js:31:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        0.979 s, estimated 1 s
+Ran all test suites matching /ex4-observable.test.js/i.
+2023-01-05 10:14:46 info: ------------------------------------------
+2023-01-05 10:14:46 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:14:46 info: ------------------------------------------
+2023-01-05 10:14:49 error: *** Unit Test Error Report ***
+
+Command failed: npx jest ex4-observable.test.js --colors
+ FAIL  1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js
+  createObservable
+    ✓ should exist and be a function (2 ms)
+    ✓ should return an object with `subscribe` and a `notify` function properties
+    ✕ should notify all subscribers of any notification (4 ms)
+
+  ● createObservable › should notify all subscribers of any notification
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Hi!"
+
+    Number of calls: 0
+
+      29 |     // Assert that both listeners have been called with the Hi! message
+      30 |     expect(listener1).toHaveBeenCalledWith('Hi!');
+    > 31 |     expect(listener2).toHaveBeenCalledWith('Hi!');
+         |                       ^
+      32 |   });
+      33 | });
+      34 |
+
+      at Object.toHaveBeenCalledWith (1-JavaScript/Week4/homework/ex4-observable/ex4-observable.test.js:31:23)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 2 passed, 3 total
+Snapshots:   0 total
+Time:        0.836 s, estimated 1 s
+Ran all test suites matching /ex4-observable.test.js/i.
+2023-01-05 10:25:44 info: ------------------------------------------
+2023-01-05 10:25:44 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:25:44 info: ------------------------------------------
+2023-01-05 10:25:48 info: All unit tests passed.
+2023-01-05 10:25:51 error: *** ESLint Report ***
+
+ex4-observable/ex4-observable.js
+  25:7  warning  Remove commented-out code  hyf/no-commented-out-code
+
+✖ 1 problem (0 errors, 1 warning)
+
+
+2023-01-05 10:29:18 info: ------------------------------------------
+2023-01-05 10:29:18 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:29:18 info: ------------------------------------------
+2023-01-05 10:29:23 info: All unit tests passed.
+2023-01-05 10:29:26 error: *** ESLint Report ***
+
+ex4-observable/ex4-observable.js
+  25:7  warning  Remove commented-out code  hyf/no-commented-out-code
+
+✖ 1 problem (0 errors, 1 warning)
+
+
+2023-01-05 10:39:28 info: ------------------------------------------
+2023-01-05 10:39:28 info: >>> Running Unit Test `ex4-observable` <<<
+2023-01-05 10:39:28 info: ------------------------------------------
+2023-01-05 10:39:33 info: All unit tests passed.
+2023-01-05 10:39:36 error: *** ESLint Report ***
+
+ex4-observable/ex4-observable.js
+  25:7  warning  Remove commented-out code  hyf/no-commented-out-code
+
+✖ 1 problem (0 errors, 1 warning)
+
+
+2023-01-06 01:01:06 info: --------------------------------------
+2023-01-06 01:01:06 info: >>> Running Unit Test `ex5-wallet` <<<
+2023-01-06 01:01:06 info: --------------------------------------
+2023-01-06 01:01:11 info: All unit tests passed.
+2023-01-06 01:01:18 info: All steps were completed successfully

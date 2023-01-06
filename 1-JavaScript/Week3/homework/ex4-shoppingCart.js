@@ -23,8 +23,11 @@ you have more than 3 items in your shopping cart the first item gets taken out.
 const shoppingCart = ['bananas', 'milk'];
 
 // ! Function to be tested
-function addToShoppingCart(/* parameters go here */) {
-  // TODO complete this function
+function addToShoppingCart(item) {
+  if (item) {
+    shoppingCart.push(item);
+  }
+  return `You bought ${shoppingCart.slice(-3).join(', ')}!`;
 }
 
 // ! Test functions (plain vanilla JavaScript)
@@ -57,7 +60,6 @@ function test4() {
   const actual = addToShoppingCart('waffles');
   console.assert(actual === expected);
 }
-
 function test5() {
   console.log('Test 5: `tea` should be added and `milk` removed');
   const expected = 'You bought chocolate, waffles, tea!';

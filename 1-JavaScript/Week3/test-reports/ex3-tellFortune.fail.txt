@@ -1,0 +1,6 @@
+
+*** Spell Checker Report ***
+
+ex3-tellFortune.js:52:46 - Unknown word (Mhaned)
+ex3-tellFortune.js:52:56 - Unknown word (Maryam)
+ex3-tellFortune.js:52:66 - Unknown word (Roqiaa)
